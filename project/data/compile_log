@@ -1,0 +1,7 @@
+----------
+1. ERROR in /storage/emulated/0/.sketchware/mysc/656/app/src/main/java/com/anbui/open/sk/androidxmedia3/MainActivity.java (at line 67)
+	String videoUrl = finalUrlForStreamVideo;
+	                  ^^^^^^^^^^^^^^^^^^^^^^
+finalUrlForStreamVideo cannot be resolved to a variable
+----------
+1 problem (1 error)
